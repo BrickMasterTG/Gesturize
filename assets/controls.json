@@ -1,0 +1,38 @@
+{
+    "left": {
+        "fist_gesture": "click",
+        "flat_hand_gesture_thumb_close": "None",
+        "flat_hand_gesture_thumb_stretched": "None",
+        "four_gesture": "None",
+        "index_gesture": "None",
+        "l_gesture": "drag",
+        "measure_gesture": "None",
+        "middlefeinger_gesture": "None",
+        "peace_close_gesture": "None",
+        "peace_gesture": "None",
+        "pinky_gesture": "Alt_F4",
+        "ring_gesture": "None",
+        "three_gesture": "None",
+        "thumb_index_middle_gesture": "None",
+        "thumbs_up_gesture": "None",
+        "": "None"
+    },
+    "right": {
+        "fist_gesture": "click_r",
+        "flat_hand_gesture_thumb_close": "None",
+        "flat_hand_gesture_thumb_stretched": "click_l",
+        "four_gesture": "move",
+        "index_gesture": "move",
+        "l_gesture": "drag",
+        "measure_gesture": "None",
+        "middlefeinger_gesture": "None",
+        "peace_close_gesture": "None",
+        "peace_gesture": "None",
+        "pinky_gesture": "None",
+        "ring_gesture": "None",
+        "three_gesture": "None",
+        "thumb_index_middle_gesture": "None",
+        "thumbs_up_gesture": "None",
+        "": "None"
+    }
+}

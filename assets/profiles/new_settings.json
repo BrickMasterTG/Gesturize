@@ -1,0 +1,36 @@
+{
+    "left": {
+        "fist_gesture": "None",
+        "flat_hand_gesture_thumb_close": "None",
+        "flat_hand_gesture_thumb_stretched": "None",
+        "four_gesture": "None",
+        "index_gesture": "None",
+        "l_gesture": "None",
+        "measure_gesture": "None",
+        "middlefeinger_gesture": "None",
+        "peace_close_gesture": "None",
+        "peace_gesture": "None",
+        "pinky_gesture": "None",
+        "ring_gesture": "None",
+        "three_gesture": "None",
+        "thumb_index_middle_gesture": "None",
+        "thumbs_up_gesture": "None"
+    },
+    "right": {
+        "fist_gesture": "None",
+        "flat_hand_gesture_thumb_close": "walk_right",
+        "flat_hand_gesture_thumb_stretched": "stun",
+        "four_gesture": "interact",
+        "index_gesture": "walk_forward",
+        "l_gesture": "walk_back",
+        "measure_gesture": "attact_ulti",
+        "middlefeinger_gesture": "attack_normal",
+        "peace_close_gesture": "walk_forward",
+        "peace_gesture": "walk_left",
+        "pinky_gesture": "None",
+        "ring_gesture": "None",
+        "three_gesture": "None",
+        "thumb_index_middle_gesture": "None",
+        "thumbs_up_gesture": "None"
+    }
+}

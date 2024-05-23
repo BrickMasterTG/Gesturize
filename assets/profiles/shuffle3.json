@@ -1,0 +1,36 @@
+{
+    "left": {
+        "flat_hand_gesture_thumb_close": "Aim down sights",
+        "index_gesture": "Block/defend",
+        "middlefeinger_gesture": "Crafting system",
+        "three_gesture": "Interact with objects",
+        "ring_gesture": "Equip/unequip items",
+        "peace_close_gesture": "Crouch",
+        "fist_gesture": "Activate/deactivate quest or objective markers",
+        "measure_gesture": "Communicate with NPCs or other players",
+        "pinky_gesture": "Drop item",
+        "peace_gesture": "Customize character appearance/loadout",
+        "thumb_index_middle_gesture": "Jump",
+        "four_gesture": "Attack with secondary weapon",
+        "flat_hand_gesture_thumb_stretched": "Attack with primary weapon",
+        "thumbs_up_gesture": "Move character backward",
+        "l_gesture": "Change camera view/perspective"
+    },
+    "right": {
+        "ring_gesture": "Use a vehicle",
+        "measure_gesture": "Reload weapon",
+        "middlefeinger_gesture": "Save/load game progress",
+        "thumb_index_middle_gesture": "Use flashlight/night vision",
+        "three_gesture": "Use ability/special move",
+        "four_gesture": "Open map",
+        "peace_gesture": "Strafe left",
+        "flat_hand_gesture_thumb_stretched": "Open inventory",
+        "index_gesture": "Perform a melee attack",
+        "pinky_gesture": "Strafe right",
+        "fist_gesture": "Move character forward",
+        "thumbs_up_gesture": "Use item/consumable",
+        "peace_close_gesture": "Sprint",
+        "l_gesture": "Pick up item",
+        "flat_hand_gesture_thumb_close": "None"
+    }
+}

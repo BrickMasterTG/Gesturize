@@ -1,0 +1,36 @@
+{
+    "left": {
+        "fist_gesture": "Activate/deactivate quest or objective markers",
+        "flat_hand_gesture_thumb_close": "Aim down sights",
+        "flat_hand_gesture_thumb_stretched": "Attack with primary weapon",
+        "four_gesture": "Attack with secondary weapon",
+        "index_gesture": "Block/defend",
+        "l_gesture": "Change camera view/perspective",
+        "measure_gesture": "Communicate with NPCs or other players",
+        "middlefeinger_gesture": "Crafting system",
+        "peace_close_gesture": "Crouch",
+        "peace_gesture": "Drop item",
+        "pinky_gesture": "Drop item",
+        "ring_gesture": "Equip/unequip items",
+        "three_gesture": "Interact with objects",
+        "thumb_index_middle_gesture": "Jump",
+        "thumbs_up_gesture": "Move character backward"
+    },
+    "right": {
+        "fist_gesture": "Move character forward",
+        "flat_hand_gesture_thumb_close": "None",
+        "flat_hand_gesture_thumb_stretched": "Open inventory",
+        "four_gesture": "Open map",
+        "index_gesture": "Perform a melee attack",
+        "l_gesture": "Pick up item",
+        "measure_gesture": "Reload weapon",
+        "middlefeinger_gesture": "Save/load game progress",
+        "peace_close_gesture": "Sprint",
+        "peace_gesture": "Strafe left",
+        "pinky_gesture": "Strafe right",
+        "ring_gesture": "Use a vehicle",
+        "three_gesture": "Use ability/special move",
+        "thumb_index_middle_gesture": "Use flashlight/night vision",
+        "thumbs_up_gesture": "Use item/consumable"
+    }
+}
