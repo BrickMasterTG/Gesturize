@@ -3,8 +3,9 @@ from time import *      #type: ignore
 import os
 from tkinter.ttk import Combobox
 import cv2
-import mediapipe as mp
-import win32gui
+#import mediapipe as mp
+
+
 from PIL import Image, ImageTk, ImageDraw, ImageFont
 import json
 import webbrowser
@@ -16,6 +17,9 @@ import time
 import threading
 import copy
 import win32com.client
+import mediapipe as mp
+
+import win32gui
 
 
 # create all necessary path that are required
@@ -36,7 +40,7 @@ profiles_path = main_path + "profiles\\\\"
 
 
 # base stuff camera and mediapipe
-mp_hands = mp.solutions.hands  #type: ignore
+mp_hands = mp.solutions.hands
 hands = mp_hands.Hands()
 #cap = cv2.VideoCapture(0)
 #cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640 * 1)
