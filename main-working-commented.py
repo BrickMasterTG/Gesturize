@@ -35,10 +35,6 @@ picture_path = main_path + "pictures\\\\"
 profiles_path = main_path + "profiles\\\\"
 
 
-
-
-
-
 # base stuff camera and mediapipe
 mp_hands = mp.solutions.hands
 hands = mp_hands.Hands()
