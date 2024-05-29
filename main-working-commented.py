@@ -581,6 +581,7 @@ def measure_gesture(points):
 #endregion
 
 
+
 #place and config header
 #region header
 
@@ -944,6 +945,7 @@ def get_json_files():
     #print(json_files) 
     return json_files
 
+#set window for creating a new profile for the game 
 def create_new_window_profile():
     global empty_content
     new_window = Toplevel(window)
@@ -1046,7 +1048,7 @@ def back_from_profile_info():
 
 #endregion
 
-#create start menu and get all possible cameras
+#create start menu and read all possible cameras
 #region login
 
 def login_page_place_all():
